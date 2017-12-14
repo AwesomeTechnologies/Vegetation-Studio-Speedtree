@@ -21,7 +21,7 @@ Then add the prefab as normal to Vegetation Studio and set the render mode to In
 Go to the Render tab of the Vegetation System component and make sure compute shaders and GPU culling is enabled.
 
 <p align="center">
-  <img src="https://www.awesometech.no/wp-content/uploads/2017/11/Image-399.png" width="350"/>
+  <img src="https://www.awesometech.no/wp-content/uploads/2017/12/Image-399.png" width="350"/>
 </p>
 
 The speedtree grass should now work with instanced indirect. 
