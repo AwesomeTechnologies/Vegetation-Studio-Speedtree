@@ -25,3 +25,5 @@ Go to the Render tab of the Vegetation System component and make sure compute sh
 </p>
 
 The speedtree grass should now work with instanced indirect. 
+
+See branches for shaders based on other unity releases. 
