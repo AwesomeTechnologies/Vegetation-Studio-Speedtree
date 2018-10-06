@@ -3,7 +3,7 @@ This includes modified versions of the Unity Speedtree files. The shader support
 
 <b>SETTING UP SPEEDTREE GRASS WITH THIS SHADER</b>
 
-This version is based on the 5.6 version of Unity. Look at the other branches for newer versions. Select the version closest (bellow) your current Unity version.
+This version is for Unity 2018.2+. Look at the other branches for other versions. Select the version closest (bellow) your current Unity version.
 
 Vegetation Studio can use instanced indirect rendering on vegetation. This allows the vegetation instanced to be rendered direct from a compute buffer on the GPU allowing for larger batches than the 1023 max of normal rendering. In addition to this there is a final compute shader pass before rendering that does GPU fristum culling and LOD selection.
 
